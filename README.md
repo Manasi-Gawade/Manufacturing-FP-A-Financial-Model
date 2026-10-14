@@ -55,3 +55,13 @@ Financial modeling · Budgeting and forecasting · Driver-based planning · Reve
 ## About
 
 Prepared as an independent FP&A portfolio project by Manasi Gawade.
+## Financial Dashboards & Analysis
+
+### Executive Financial Dashboard
+![Executive Financial Dashboard](screenshots/Executive_Dashboard.png)
+
+### Budget vs. Actual Analysis
+![Budget-vs-Actual Analysis](screenshots/Budget-vs-Actual.png)
+
+### Scenario Analysis
+![Scenario Analysis](screenshots/Scenario_Analysis.png)
