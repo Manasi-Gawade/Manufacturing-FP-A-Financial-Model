@@ -61,7 +61,7 @@ Prepared as an independent FP&A portfolio project by Manasi Gawade.
 ![Executive Dashboard](screenshots/Executive_Dashboard.png)
 
 ### Budget vs. Actual Analysis
-![Budget vs. Actual](screenshots/Budget_vs_Actual.png)
+![Budget vs. Actual](screenshots/Budget-vs-Actual.png)
 
 ### Scenario Analysis
 ![Scenario Analysis](screenshots/Scenario_Analysis.png)
