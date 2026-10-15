@@ -2,6 +2,10 @@
 
 **Independent Excel portfolio project | Hypothetical manufacturing company**
 
+### Executive Financial Dashboard
+
+![Executive Dashboard](screenshots/Executive_Dashboard.png)
+
 An integrated financial planning and analysis model for MidWest Precision Components, Inc. (a hypothetical company), demonstrating driver-based forecasting, operational finance, consolidated financial planning, variance analysis, scenario evaluation, and management reporting.
 
 > **Portfolio disclosure:** This is an independent educational portfolio project using hypothetical data. It does not represent client work or employment at a manufacturing company. All financial results are illustrative.
@@ -55,10 +59,8 @@ Financial modeling · Budgeting and forecasting · Driver-based planning · Reve
 ## About
 
 Prepared as an independent FP&A portfolio project by Manasi Gawade.
-## Financial Dashboards & Analysis
 
-### Executive Financial Dashboard
-![Executive Dashboard](screenshots/Executive_Dashboard.png)
+## Financial Dashboards & Analysis
 
 ### Budget vs. Actual Analysis
 ![Budget vs. Actual](screenshots/Budget-vs-Actual.png)
