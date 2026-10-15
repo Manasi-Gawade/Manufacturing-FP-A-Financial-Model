@@ -35,7 +35,7 @@ The workbook contains 23 worksheets, including `Cover`, `Dashboard`, `Historical
 
 ## Files
 
-- **Excel model:** `MidWest_Precision_FP&A_Model(2).xlsx` — interactive workbook with linked financial schedules.
+- **Excel model:** `MidWest_Precision_FP&A_Model.xlsx` — interactive workbook with linked financial schedules.
 - **Portfolio overview:** `Manasi_Gawade_FP&A_Portfolio.pdf` — two-page overview of the model and illustrative outputs.
 
 ## How to explore
