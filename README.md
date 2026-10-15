@@ -58,10 +58,10 @@ Prepared as an independent FP&A portfolio project by Manasi Gawade.
 ## Financial Dashboards & Analysis
 
 ### Executive Financial Dashboard
-![Executive Financial Dashboard](screenshots/Executive_Dashboard.png)
+![Executive Dashboard](screenshots/Executive_Dashboard.png)
 
 ### Budget vs. Actual Analysis
-![Budget-vs-Actual Analysis](screenshots/Budget-vs-Actual.png)
+![Budget vs. Actual](screenshots/Budget_vs_Actual.png)
 
 ### Scenario Analysis
 ![Scenario Analysis](screenshots/Scenario_Analysis.png)
