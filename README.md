@@ -31,7 +31,7 @@ An integrated financial planning and analysis model for MidWest Precision Compon
 
 `Assumptions → Revenue & Operating Schedules → P&L / Working Capital / Cash Flow → Variance & Scenario Analysis → Management Dashboard & Checks`
 
-The workbook contains 24 worksheets, including `Cover`, `Dashboard`, `Historical_Actuals`, `FX_Assumptions`, `Control Panel`, `Assumptions`, `Revenue_Model`, `Production_Model`, `Sourcing_Model`, `Direct_Labor`, `Manufacturing_OH`, `Headcount`, `OpEx`, `CapEx`, `Working_Capital`, `P&L`, `Cash_Flow`, `Budget_vs_Actual`, `Forecast`, `Scenario_Analysis`, `Variance_Drivers`, `Management_Dashboard`, `Exceutive_Dashboard` and `Checks`.
+The workbook contains 24 worksheets, including `Cover`, `Dashboard`, `Historical_Actuals`, `FX_Assumptions`, `Control Panel`, `Assumptions`, `Revenue_Model`, `Production_Model`, `Sourcing_Model`, `Direct_Labor`, `Manufacturing_OH`, `Headcount`, `OpEx`, `CapEx`, `Working_Capital`, `P&L`, `Cash_Flow`, `Budget_vs_Actual`, `Forecast`, `Scenario_Analysis`, `Variance_Drivers`, `Management_Dashboard`, `Executive_Dashboard` and `Checks`.
 
 ## Files
 
